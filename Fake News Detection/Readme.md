@@ -31,7 +31,7 @@ The Combined Dataset have following Features:
 3) Feature Extraction using CountVectorizer function
 4) Model Used: LogisticRegression
 5) Metrics Used: ROC_AUC_SCORE
-6) Ploting of Confusion Matrix to check resuls
+6) Ploting of Confusion Matrix to check results
 
 ### Model Training and Testing
 The model was trained and tested for three different features separately
@@ -59,12 +59,12 @@ Made a webapp using streamlit
 
  
 ## TO-DO-LISTS
-[] Doing more of Visulaization 
-[] More of Data Cleaning/Processing
+- [] Doing more of Visulaization 
+- [] More of Data Cleaning/Processing
   - Stemming or Lemmatization
   - Using Tfidf function
-[] Training/Testing different models
-[] Deployement of webapp
+- [] Training/Testing different models
+- [] Deployement of webapp
 
 
 
