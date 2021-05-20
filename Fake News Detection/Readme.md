@@ -37,12 +37,17 @@ The Combined Dataset have following Features:
 The model was trained and tested for three different features separately
   - Title
   - Text
-  - Title + Text
+  - Title + Text (combined)
 
 ### Model Performance
 For all the three training and testing the scores were as follows
-1) For Title only ![Screenshot (104)](https://user-images.githubusercontent.com/69076815/118935247-f5697a80-b968-11eb-8305-b65f1090279d.png)
-2) 
+1) For Title only 
+![Screenshot (104)](https://user-images.githubusercontent.com/69076815/118935247-f5697a80-b968-11eb-8305-b65f1090279d.png)
+2) For Text only
+![Screenshot (108)](https://user-images.githubusercontent.com/69076815/118935776-82accf00-b969-11eb-85fe-ce9a562be245.png)
+3) For Title + Text combined
+![Screenshot (106)](https://user-images.githubusercontent.com/69076815/118935960-b851b800-b969-11eb-80c0-cbdaa85b8922.png)
+ 
 
 
 
