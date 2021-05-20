@@ -59,12 +59,12 @@ Made a webapp using streamlit
 
  
 ## TO-DO-LISTS
--[] Doing more of Visulaization 
--[] More of Data Cleaning/Processing
+- [x] Doing more of Visulaization 
+- [] More of Data Cleaning/Processing
   - Stemming or Lemmatization
   - Using Tfidf function
--[] Training/Testing different models
--[] Deployement of webapp
+- [] Training/Testing different models
+- [] Deployement of webapp
 
 
 
