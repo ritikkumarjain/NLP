@@ -46,15 +46,25 @@ For all the three training and testing the scores were as follows
 ![Screenshot (104)](https://user-images.githubusercontent.com/69076815/118935247-f5697a80-b968-11eb-8305-b65f1090279d.png)
 
 2) For Text only
-3) 
+ 
 ![Screenshot (108)](https://user-images.githubusercontent.com/69076815/118935776-82accf00-b969-11eb-85fe-ce9a562be245.png)
 
 3) For Title + Text combined
-4) 
-![Screenshot (106)](https://user-images.githubusercontent.com/69076815/118935960-b851b800-b969-11eb-80c0-cbdaa85b8922.png)
  
+![Screenshot (106)](https://user-images.githubusercontent.com/69076815/118935960-b851b800-b969-11eb-80c0-cbdaa85b8922.png)
 
+### Webapp
+Made a webapp using streamlit
+![Screenshot (108)](https://user-images.githubusercontent.com/69076815/118937217-ea174e80-b96a-11eb-8993-e5ee11e47191.png)
 
+ 
+## TO-DO-LISTS
+[] Doing more of Visulaization 
+[] More of Data Cleaning/Processing
+  - Stemming or Lemmatization
+  - Using Tfidf function
+[] Training/Testing different models
+[] Deployement of webapp
 
 
 
