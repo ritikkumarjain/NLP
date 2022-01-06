@@ -16,9 +16,9 @@ The study's significance was to learn how Natural Language Processing methodolog
 Through this study we tested the usability of a popular social media tool i.e., Twitter as a possible disaster response tool.
 
 ### Table of Contents ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
-1) Motivation
-2) Objectives
-3) Selected Climate Event
+1) [Motivation](#Motivation)
+2) [Objectives](#Objectives)
+3) [Selected Climate Event](#Selected Climate Event)
 4) Data Collection
 5) Methods
 6) Results
