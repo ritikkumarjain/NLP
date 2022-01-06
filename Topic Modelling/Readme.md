@@ -16,9 +16,12 @@ The study's significance was to learn how Natural Language Processing methodolog
 Through this study we tested the usability of a popular social media tool i.e., Twitter as a possible disaster response tool.
 
 ### Table of Contents ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
-1) Motvation
+1) Motivation
 2) Objectives
 3) Selected Climate Event
+4) Data Collection
+5) Methods
+6) Results
 
 
 ### 1) Motivation ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
@@ -32,7 +35,7 @@ This specific objectives are:
 - Evaluate effectiveness of different predictive modelling techniques on the data
 - Characterize tweets dynamics to compare the climatic events discussion in the event zone.
 
-### 3) Climate Event - Amphan Cyclone
+### 3) Climate Event - Amphan Cyclone ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 Amphan Cyclone is a category 5 cyclone which hit India's eastern coast in May 2020. It was one of the most powerful storm in the Bay of Bengal.
 
 Some Reasons for choosing this events was:
@@ -42,6 +45,20 @@ Some Reasons for choosing this events was:
 - Ecosystem scale damage: 
   - Agricultural lands (78.25%)
   - Forest, including mangroves (10.8%) 
+
+### 4) Data Collection ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
+Snscrape is a open source python tool which was used collect tweets from twitter.
+- The “Amphan” hashtag to extract tweets content.
+- Other things like userid, datetime of tweet,user name, reply_count, retweet_count, like_count, quote_count were also extracted
+- A total of 134,300 tweets were extracted. 
+- After Cleaning, around 40,000 tweets remained.
+
+### 5) Models used ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
+- LDA
+- NNMF
+- BERTopic(Transformer models)
+
+### 6) Results ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 
 
 
