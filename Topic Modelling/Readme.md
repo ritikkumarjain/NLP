@@ -18,10 +18,11 @@ Through this study we tested the usability of a popular social media tool i.e., 
 ### Table of Contents ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 1) [Motivation](###Motivation)
 2) [Objectives](###Objectives)
-3) [Selected Climate Event](###Climate-Event-Amphan Cyclone )
-4) [Data Collection](#Data-Collection)
-5) [Methods](#Methods)
-6) [Results](#Results)
+3) [Selected Climate Event](###Climate-Event-Amphan-Cyclone )
+4) [Data Collection](###Data-Collection)
+5) [Methods](###Methods)
+6) [Results](###Results)
+7) [Extras](###Extras)
 
 
 ### 1) Motivation ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
@@ -73,14 +74,19 @@ Clustering the documents that share same topics
 
 
 ![topics_cluster_visualisation](https://user-images.githubusercontent.com/69076815/148549051-15800994-ae7d-4997-8ae4-4bcc7d5ad749.png)
+
 The topic cluster visualisation shows use the cluster of topics. The clustering is very better compared to LDA and NNMF model
 ![topics_chart](https://user-images.githubusercontent.com/69076815/148549095-c038f3c4-9405-4bca-93a7-87c8b1ea0580.png)
+
 As we can see the 12 most discussed topics from the data.
 ![Screenshot (37)](https://user-images.githubusercontent.com/69076815/148549299-51b8091a-1f93-495c-a5ea-192cc24e9137.png)
+
 The above plot shows the variation of topics with respect to time.
 > Look at the Bertopic notebook for interactive visualization 
 
-
-
+### 7) Extras
+All the notebook of the model are in **model-training** folder
+All the notebook for cleaning data are in **data-cleaning** folder
+The notebook for extracting data is in **data-extraction** folder
 
 
