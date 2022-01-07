@@ -60,14 +60,21 @@ Snscrape is a open source python tool which was used collect tweets from twitter
 
 ### 6) Results ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 - LDA(Performance)
-Clustering the documents that share same topics
+Clustering the documents that share same topics 
 ![image](https://user-images.githubusercontent.com/69076815/148548724-0220577a-d04e-4e4b-94d6-c757ce7b3c43.png)
 
 - NNMF(Performance)
 Clustering the documents that share same topics
+![image](https://user-images.githubusercontent.com/69076815/148548951-be1698a9-9098-45a0-92cf-62dc49f4e502.png)
+
+- Bertopic(Final model for finding insights and making inferences) 
 
 
+![topics_cluster_visualisation](https://user-images.githubusercontent.com/69076815/148549051-15800994-ae7d-4997-8ae4-4bcc7d5ad749.png)
 
+![topics_chart](https://user-images.githubusercontent.com/69076815/148549095-c038f3c4-9405-4bca-93a7-87c8b1ea0580.png)
+
+![topics_wrt_time](https://user-images.githubusercontent.com/69076815/148549108-6711caa3-2464-480e-acbd-80d8997b3e44.png)
 
 
 
