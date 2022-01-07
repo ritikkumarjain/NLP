@@ -58,6 +58,8 @@ Snscrape is a open source python tool which was used collect tweets from twitter
 - NNMF
 - BERTopic(Transformer models) 
 
+LDA and NNMF model were used to see how old classical modes performed on large quantity of data.
+
 ### 6) Results ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 - LDA(Performance)
 Clustering the documents that share same topics 
@@ -71,10 +73,14 @@ Clustering the documents that share same topics
 
 
 ![topics_cluster_visualisation](https://user-images.githubusercontent.com/69076815/148549051-15800994-ae7d-4997-8ae4-4bcc7d5ad749.png)
-
+The topic cluster visualisation shows use the cluster of topics. The clustering is very better compared to LDA and NNMF model
 ![topics_chart](https://user-images.githubusercontent.com/69076815/148549095-c038f3c4-9405-4bca-93a7-87c8b1ea0580.png)
+As we can see the 12 most discussed topics from the data.
+![Screenshot (37)](https://user-images.githubusercontent.com/69076815/148549299-51b8091a-1f93-495c-a5ea-192cc24e9137.png)
+The above plot shows the variation of topics with respect to time.
+> Look at the Bertopic notebook for interactive visualization 
 
-![topics_wrt_time](https://user-images.githubusercontent.com/69076815/148549108-6711caa3-2464-480e-acbd-80d8997b3e44.png)
+
 
 
 
