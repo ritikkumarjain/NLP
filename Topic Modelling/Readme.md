@@ -18,8 +18,8 @@ Through this study we tested the usability of a popular social media tool i.e., 
 ### Table of Contents ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 1) [Motivation](###Motivation)
 2) [Objectives](###Objectives)
-3) [Selected Climate Event](###Climate Event - Amphan Cyclone )
-4) [Data Collection](#Data Collection)
+3) [Selected Climate Event](###Climate-Event-Amphan Cyclone )
+4) [Data Collection](#Data-Collection)
 5) [Methods](#Methods)
 6) [Results](#Results)
 
