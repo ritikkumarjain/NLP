@@ -88,7 +88,7 @@ As we can see the 12 most discussed topics from the data.
 ![Screenshot (37)](https://user-images.githubusercontent.com/69076815/148549299-51b8091a-1f93-495c-a5ea-192cc24e9137.png)
 
 The above plot shows the variation of topics with respect to time.
-> Look at the Bertopic notebook for interactive visualization 
+> Look at the Bertopic notebook for interactive visualization [Notebook](https://www.kaggle.com/ritikjain00/topic-modelling-of-climate-disasters/notebook)
 
 ### 7) Extras
 - All the notebook of the model are in **model-training** folder
