@@ -7,7 +7,7 @@ To look at bertopic plots look into this notebook: [Notebook](https://www.kaggle
 - Paper Writing: In Progress
 
 ### Project Members ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
-- - Project Supervisor: Santonu Goswami(Professor @ Azim Premji University)
+- Project Supervisor: Santonu Goswami(Professor @ Azim Premji University)
 - Gayatri Sharma
 - Abhinav Dubey
 - Ritik Kumar Jain(Me)
